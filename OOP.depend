@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1607304857 source:c:\users\fcelik\desktop\oop\main.cpp
+	<iostream>
+	"City.h"
+
+1607305775 source:c:\users\fcelik\desktop\oop\city.cpp
+	"City.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1607306233 c:\users\fcelik\desktop\oop\city.h
+	<iostream>
+	"Passenger.h"
+
+1607306689 source:c:\users\fcelik\desktop\oop\passenger.cpp
+	"Passenger.h"
+
+1607306679 c:\users\fcelik\desktop\oop\passenger.h
+	<iostream>
+
+1607627056 source:c:\users\fufu\desktop\oop\passenger.cpp
+	"Passenger.h"
+
+1607626817 c:\users\fufu\desktop\oop\passenger.h
+	<iostream>
+	<stdlib.h>
+	<chrono>
+
+1607628820 source:c:\users\fufu\desktop\oop\main.cpp
+	<Windows.h>
+	<unistd.h>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"City.h"
+	<fstream>
+	<string>
+	<string.h>
+	<sstream>
+
+1607627242 c:\users\fufu\desktop\oop\city.h
+	<iostream>
+	"Passenger.h"
+	<stdlib.h>
+	<chrono>
+	<string.h>
+
+1607628652 source:c:\users\fufu\desktop\oop\city.cpp
+	"City.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1607525712 c:\users\fufu\desktop\oop\uptolow.h
+	<string>
+	<string.h>
+	<cstdlib>
+	<iostream>
+
